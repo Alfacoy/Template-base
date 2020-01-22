@@ -12,6 +12,7 @@ Loaders
 * sass-loader
 * node-sass
 * url-loader
+* postcss-loader
 
 Babel
 * babel-loader
@@ -21,6 +22,7 @@ Babel
 Plugins
 * html-webpack-plugin
 * mini-css-extract-plugin
+* autoprefixer
 
 
 Warnings:
